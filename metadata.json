@@ -1,0 +1,6 @@
+{
+  "name": "SBO Administrator Hub",
+  "description": "Premium full-stack administrator and staff tracking database for SBO, integrated with real-time analytics and a smart Gemini-powered companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
